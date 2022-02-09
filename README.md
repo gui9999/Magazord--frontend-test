@@ -5,7 +5,7 @@
  </div>
 
 # Teste para vaga de front-end no Magazord.com.br
-Este repositório tem como fim ser um teste para entrar na maior empresa se software do alto vale [Magazord](https://magazord.com.br).
+Este repositório tem como fim ser um teste para entrar na maior empresa de software do alto vale [Magazord](https://magazord.com.br).
 
 <hr>
 
